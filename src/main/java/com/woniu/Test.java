@@ -1,5 +1,5 @@
 package com.woniu;
 
-public class Test {
+public class Test implements{
 
 }
