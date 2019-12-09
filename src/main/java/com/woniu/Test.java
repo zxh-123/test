@@ -1,5 +1,7 @@
 package com.woniu;
 
-public class Test implements{
+import java.io.Serializable;
+
+public class Test implements Serializable{
 
 }
