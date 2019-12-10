@@ -3,6 +3,7 @@ package com.woniu;
 import java.io.Serializable;
 
 public class Test implements Serializable{
+
    private Integer id;
    private String deptName;
 public Test(Integer id, String deptName) {
@@ -26,5 +27,4 @@ public void setDeptName(String deptName) {
 public String toString() {
 	return "Test [id=" + id + ", deptName=" + deptName + "]";
 }
-   
 }
